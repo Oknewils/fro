@@ -1,0 +1,14 @@
+.specializations {
+    display: flex;
+
+    width: auto;
+    border-bottom: 1px solid $line-color;
+
+    .caption {
+        width: 50%;
+    }
+    
+    .number-list {
+        width: 50%;
+    }
+}
